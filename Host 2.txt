@@ -1,0 +1,24 @@
+========== BACOT JAMBI GAMING ==========
+
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 dlied2.tcdn.qq.com
+127.0.0.1 dlied3.tcdn.qq.com
+127.0.0.1 dlied4.tcdn.qq.com
+127.0.0.1 dlied5.tcdn.qq.com
+127.0.0.1 dlied6.tcdn.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 dlied1.qq.com
+132.232.173.220 cs.mbgame.gamesafe.qq.com
+132.232.173.228 oth.eve.mdt.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 hkconfig.gcloud.qq.com 
+127.0.5.1 ragnarock game
+168.1.178 proxy game
+127.1.1.1 google.com 
+80.80. proxy
+127.1.1.0 pubg.mobile.com
+
+========== BACOT JAMBI GAMING ==========
+
+127.0.0.1       localhost
+::1             ip6-localhost
